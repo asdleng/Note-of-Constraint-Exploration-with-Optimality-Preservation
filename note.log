@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  7 DEC 2023 19:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  7 DEC 2023 20:45
 entering extended mode
 **./note.tex
 (note.tex
@@ -514,12 +514,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--107
+Underfull \hbox (badness 10000) in paragraph at lines 75--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--116
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
 
  []
 
@@ -527,52 +527,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--116
 
 
 {C:/Users/asdleng/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 124--133
+Underfull \hbox (badness 10000) in paragraph at lines 123--132
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--148
+Underfull \hbox (badness 10000) in paragraph at lines 143--147
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 170--176
+Underfull \hbox (badness 10000) in paragraph at lines 169--175
 
  []
 
 [3] (note.aux)
-Package rerunfilecheck Info: File `note.out' has not changed.
-(rerunfilecheck)             Checksum: 4C50E05D37036BD0DA00DD87328E0A2B;927.
+
+Package rerunfilecheck Warning: File `note.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `note.out':
+(rerunfilecheck)             Before: ECE207E0992E1EC50978AB6738517904;785
+(rerunfilecheck)             After:  48E0CC85549571B334074A3A388E0DA0;774.
  ) 
 Here is how much of TeX's memory you used:
- 11665 strings out of 478927
- 184477 string characters out of 2851588
- 620981 words of memory out of 3000000
- 29231 multiletter control sequences out of 15000+600000
+ 11669 strings out of 478927
+ 184491 string characters out of 2851588
+ 620969 words of memory out of 3000000
+ 29230 multiletter control sequences out of 15000+600000
  444452 words of font info for 129 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,81p,1003b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} 
-<C:\Users\asdleng\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1
-000.pk><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmex10.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi10.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/asdleng/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/asdleng/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/asdleng/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/a
-sdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmsy6.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmsy7.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/symbols/msbm10.pfb><C:/Users/asdleng/AppData/Local/Programs/Mi
-KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/asdleng/AppData/Local/Programs/
-MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/asdleng/AppData/Local/Program
-s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on note.pdf (3 pages, 172804 bytes).
+pdfTeX warning (dest): name{subsection.1.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+{C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
+:\Users\asdleng\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt100
+0.pk><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmex10.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/asdleng/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/asdleng/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/asdleng/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/asd
+leng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy6.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/symbols/msbm10.pfb><C:/Users/asdleng/AppData/Local/Programs/MiKT
+eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/asdleng/AppData/Local/Programs/Mi
+KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/asdleng/AppData/Local/Programs/
+MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on note.pdf (3 pages, 173384 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 43073 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 43065 words of extra memory for PDF output out of 51595 (max. 10000000)
 
